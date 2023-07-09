@@ -17,4 +17,4 @@ Hello! My name is Hadeel and I am an information science student with a concentr
 ## Projects
 
 ### Factors That Lead to Credit Approval
-**Code: [Credit Risk Analysis] (
+**Machine Learning:** [Credit Risk Analysis](
