@@ -4,7 +4,7 @@ Hello! My name is Hadeel and I am an information science student with a concentr
 
 ## Table of Contents
 * [About](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/README.md#about-me)
-* [Portfolio Projects]
+* [Portfolio Projects](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/README.md#projects)
   * Python
     * [Factors That Lead to Credit Approval]
   * R
