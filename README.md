@@ -31,9 +31,9 @@ Hello! My name is Hadeel and I am an information science student with a concentr
 **Results:** Using the Python language, we can conclude that if an individual fails to fulfill their obligations to repay a previous debt, then they will unlikely be approved for another loan or a credit application. This is the biggest factor for an approval, other variables include credit score and if they are employed. Using sklearn we can also see that for the best accuracy score, the decison tree should be at a depth of two. 
 
 ### Brick by Brick: A Data-Driven Exploration of LEGO Set Trends and Insights
-**Exploratory Data Analysis:**[https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/Legos/LEGOS.R]
+**Exploratory Data Analysis:** [Lego EDA](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/Legos/LEGOS.R)
 
-**Data Visualization:**[https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/Legos/Legos_Average_Colors.pdf]
+**Data Visualization:** [Legos Data Visualization:Average Number of Colors per Year](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/Legos/Legos_Average_Colors.pdf)
 
 **Goal:** In this analytical journey, we aim to delve into the evolution of LEGO sets, seeking to understand their changing complexity and design principles over the years. We'll first explore whether LEGO sets have grown more intricate by assessing metrics like piece count and design diversity. Our focus will then shift to the color dynamics, investigating the average color palette of the early sets and pinpointing the three rarest hues throughout LEGO's history. Ultimately, we aspire to identify the crown jewel of LEGO design: the most complex set ever produced. Through these insights, we hope to provide a succinct overview of LEGO's transformative journey, catering to collectors, enthusiasts, and the brand itself.
 
