@@ -8,7 +8,7 @@ Hello! My name is Hadeel and I am an information science student with a concentr
   * Python
     * [Factors That Lead to Credit Approval](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/blob/main/README.md#factors-that-lead-to-credit-approval)
   * R
-    *[Brick by Brick: A Data-Driven Exploration of LEGO Set Trends and Insights](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/tree/main/Legos)
+    * [Brick by Brick: A Data-Driven Exploration of LEGO Set Trends and Insights](https://github.com/Hadeelsm11/Data-Analytics-Portfolio/tree/main/Legos)
   * SQL
   * Excel/Google Sheets
   * Tableau
